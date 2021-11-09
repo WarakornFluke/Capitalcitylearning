@@ -1,0 +1,10 @@
+Thailand/Bangkok
+UK/London
+France/Paris
+Russia/Moscow
+Switzerland/Zurich
+Spain/Madrid
+Japan/Tokyo
+Germany/Munich
+India/New delhi
+China/Beijing
